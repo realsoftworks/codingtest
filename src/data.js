@@ -22,5 +22,6 @@ export default [
       id: 2,
       name: "Another Guy",
       avatar: "https://randomuser.me/api/portraits/men/46.jpg"
+    }
   }
 ];
