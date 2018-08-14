@@ -16,10 +16,10 @@ export default [
       avatar: "https://randomuser.me/api/portraits/women/68.jpg"
     }
   },{
-    id: 2,
+    id: 3,
     title: "Add some sizzle",
     user: {
-      id: 2,
+      id: 3,
       name: "Another Guy",
       avatar: "https://randomuser.me/api/portraits/men/46.jpg"
     }
